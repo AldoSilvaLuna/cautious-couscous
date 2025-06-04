@@ -1,0 +1,5 @@
+reconstrucciones/
+datasets/
+uploaded_images/
+*.bak
+*.pth
