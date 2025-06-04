@@ -1,4 +1,4 @@
-# Cauious Couscous!!
+# Cautious Couscous!!
 
 ## parts_analyzer_api_service.py
 
